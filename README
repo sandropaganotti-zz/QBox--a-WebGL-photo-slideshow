@@ -1,0 +1,19 @@
+PROJECT:        QBox: a WebGL photo slideshow.
+AUTHOR:         Sandro Paganotti (name dot surname at gmail dot com)
+HOMEPAGE:       http://www.sandropaganotti.com/qbox-a-webgl-photo-slideshow-for-your-website
+LIVE DEMO:      http://sandropaganotti.com/wp-content/goodies/demos/qbox/
+30SEC VIDEO:    http://www.youtube.com/watch?v=5ui-XBVChmE
+
+INSTALLATION:
+
+Simply clone this repository and lanunch index.html on a WebGL enabled brower, at 
+the moment this software is only tested against Webkit Nightly Builds: http://nightly.webkit.org/
+
+ACKNOWLEDGMENTS:
+
+Most of the base code is taken from 'WebGL Spinning Box' example (http://webkit.org/blog/603/webgl-now-available-in-webkit-nightlies/)
+I also take some inspiration from 'procedural-texture-test' demo by Google.
+(https://cvs.khronos.org/svn/repos/registry/trunk/public/webgl/sdk/demos/google/procedural-texture-test/index.html)
+
+
+
