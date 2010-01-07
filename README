@@ -8,6 +8,7 @@ INSTALLATION:
 
 Simply clone this repository and lanunch index.html on a WebGL enabled brower, at 
 the moment this software is only tested against Webkit Nightly Builds: http://nightly.webkit.org/
+and Firefox Nightly http://ftp.mozilla.org/pub/mozilla.org/firefox/nightly/latest-trunk/
 
 ACKNOWLEDGMENTS:
 

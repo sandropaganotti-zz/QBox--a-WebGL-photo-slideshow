@@ -183,7 +183,7 @@ function qbox(collection,o)
     var textures = new Array;
     $(collection).each(function(index){$(this).hide();textures.push(initTexture(this,$('#'+o)));});
 
-    if (!document.getElementById(o).getContext("webkit-3d"))
+    if (!document.getElementById(o).getContext("experimental-webgl"))
         alert("You don't have a version of WebKit with WebGL or you don't have it enabled.")
    
     var gl = init(o);
